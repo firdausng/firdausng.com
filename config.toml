@@ -12,10 +12,10 @@ theme = "hugo-minimalist-theme"
 [params]
     site_author = "Firdaus"
     site_description = "The blog of Firdaus"
-    location = "Earth"
+    location = "at beach"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    avatar = "img/profile_pic.jpg"
+    header_background = "img/keyboard_gee.jpg"
     header_title = "Firdaus's Blog"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
